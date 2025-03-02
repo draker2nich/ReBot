@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\pcfor\Downloads\ReBot.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCBF57F6-D316-4604-8CB7-B40A07C9FE65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>ReBot</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>3.9.9.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LinkItem.cs" />
+    <Compile Include="ListWithDuplicates.cs" />
+    <Compile Include="_003CModule_003E{B8ACFF7F-A69F-446C-AF9A-E1AD761C1.cs" />
+    <Compile Include="_003CModule_003E{AE734AB1-4812-44D0-B1C4-B849CE5B3.cs" />
+    <Compile Include="System\Runtime\CompilerServices\ExtensionAttribute.cs" />
+    <Compile Include="j1OFGCoCY8sWgQrYi8\IUPeb2cd94GT7UacF9.cs" />
+    <Compile Include="CUB0kCL30YeF2Gt7jr\pBhnjNbOQaPrc7QP7L.cs" />
+    <Compile Include="zoxFr96uALPVfCJPYS\fnoObmmMIjuEZgNdJ4.cs" />
+    <Compile Include="fCq6WfrEDILJ63bcvr\ajb1k2nt7TG3bU18v9.cs" />
+    <Compile Include="b2hqN9XDtxkWwGCf1i\hjfuVDuM23bcYQyol6.cs" />
+    <Compile Include="SHDocVw\IWebBrowser.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents.cs" />
+    <Compile Include="SHDocVw\CommandStateChangeConstants.cs" />
+    <Compile Include="SHDocVw\IWebBrowserApp.cs" />
+    <Compile Include="SHDocVw\IWebBrowser2.cs" />
+    <Compile Include="SHDocVw\OLECMDID.cs" />
+    <Compile Include="SHDocVw\OLECMDF.cs" />
+    <Compile Include="SHDocVw\OLECMDEXECOPT.cs" />
+    <Compile Include="SHDocVw\tagREADYSTATE.cs" />
+    <Compile Include="SHDocVw\SecureLockIconConstants.cs" />
+    <Compile Include="SHDocVw\NewProcessCauseConstants.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2.cs" />
+    <Compile Include="SHDocVw\WebBrowser_V1Class.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_Event.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_StatusTextChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_ProgressChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_CommandStateChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_DownloadBeginEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_DownloadCompleteEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_TitleChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_PropertyChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_BeforeNavigate2EventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_NewWindow2EventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_NavigateComplete2EventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_DocumentCompleteEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnQuitEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnVisibleEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnToolBarEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnMenuBarEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnStatusBarEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnFullScreenEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_OnTheaterModeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowSetResizableEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowSetLeftEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowSetTopEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowSetWidthEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowSetHeightEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowClosingEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_ClientToHostWindowEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_SetSecureLockIconEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_FileDownloadEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_NavigateErrorEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_PrintTemplateInstantiationEvent.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_PrintTemplateTeardownEventHandl.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_UpdatePageStatusEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_PrivacyImpactedStateChangeEvent.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_NewWindow3EventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_SetPhishingFilterStatusEventHan.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WindowStateChangedEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_NewProcessEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_ThirdPartyUrlBlockedEventHandle.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_RedirectXDomainBlockedEventHand.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_BeforeScriptExecuteEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WebWorkerStartedEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_WebWorkerFinsihedEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_Event.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_BeforeNavigateEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_NavigateCompleteEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_StatusTextChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_ProgressChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_DownloadCompleteEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_CommandStateChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_DownloadBeginEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_NewWindowEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_TitleChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_FrameBeforeNavigateEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_FrameNavigateCompleteEventHandle.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_FrameNewWindowEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_QuitEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_WindowMoveEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_WindowResizeEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_WindowActivateEventHandler.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_PropertyChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\WebBrowser_V1.cs" />
+    <Compile Include="SHDocVw\WebBrowserClass.cs" />
+    <Compile Include="SHDocVw\WebBrowser.cs" />
+    <Compile Include="SHDocVw\InternetExplorerClass.cs" />
+    <Compile Include="SHDocVw\InternetExplorer.cs" />
+    <Compile Include="SHDocVw\InternetExplorerMediumClass.cs" />
+    <Compile Include="SHDocVw\InternetExplorerMedium.cs" />
+    <Compile Include="SHDocVw\ShellBrowserWindowClass.cs" />
+    <Compile Include="SHDocVw\ShellBrowserWindow.cs" />
+    <Compile Include="SHDocVw\ShellWindowTypeConstants.cs" />
+    <Compile Include="SHDocVw\ShellWindowFindWindowOptions.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents.cs" />
+    <Compile Include="SHDocVw\IShellWindows.cs" />
+    <Compile Include="SHDocVw\ShellWindowsClass.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents_Event.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents_WindowRegisteredEventHandler.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents_WindowRevokedEventHandler.cs" />
+    <Compile Include="SHDocVw\ShellWindows.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper2.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper3.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper4.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper5.cs" />
+    <Compile Include="SHDocVw\IShellUIHelper6.cs" />
+    <Compile Include="SHDocVw\ShellUIHelperClass.cs" />
+    <Compile Include="SHDocVw\ShellUIHelper.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents.cs" />
+    <Compile Include="SHDocVw\IShellFavoritesNameSpace.cs" />
+    <Compile Include="SHDocVw\IShellNameSpace.cs" />
+    <Compile Include="SHDocVw\ShellNameSpaceClass.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_Event.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_FavoritesSelectionChangeEven.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_SelectionChangeEventHandler.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_DoubleClickEventHandler.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_InitializedEventHandler.cs" />
+    <Compile Include="SHDocVw\ShellNameSpace.cs" />
+    <Compile Include="SHDocVw\IScriptErrorList.cs" />
+    <Compile Include="SHDocVw\CScriptErrorListClass.cs" />
+    <Compile Include="SHDocVw\CScriptErrorList.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_SinkHelper.cs" />
+    <Compile Include="SHDocVw\DShellNameSpaceEvents_EventProvider.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents_SinkHelper.cs" />
+    <Compile Include="SHDocVw\DShellWindowsEvents_EventProvider.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_SinkHelper.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents_EventProvider.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_SinkHelper.cs" />
+    <Compile Include="SHDocVw\DWebBrowserEvents2_EventProvider.cs" />
+    <Compile Include="xb7FYCxUQh9LYWNYqo\qT84nQp78OSyl9egpm.cs" />
+    <Compile Include="IHLPAFaupiALmEo2wb\yqOqcXGZSAMU1pWyW1.cs" />
+    <Compile Include="qjspPhUTkwp4qkx7Ki\GeXGG2W4DFIf9M2hbZ.cs" />
+    <Compile Include="rD9BTdvLIJYvvCMKZ8\PgADUw050obe94RDW7.cs" />
+    <Compile Include="oTbMlPVr06kqdTE62V\Y9Ovq2eRR7cNFI4M06.cs" />
+    <Compile Include="v5B2xLE6I3MJEapV5x\NTChBG30n4Hb5KiU91.cs" />
+    <Compile Include="ReBot\MouseClicker.cs" />
+    <Compile Include="ReBot\Crypto.cs" />
+    <Compile Include="ReBot\MyCrypt.cs" />
+    <Compile Include="ReBot\Lib.cs" />
+    <Compile Include="ReBot\SettingValidate.cs" />
+    <Compile Include="ReBot\CustomTimes.cs" />
+    <Compile Include="ReBot\PlayField.cs" />
+    <Compile Include="ReBot\Position.cs" />
+    <Compile Include="ReBot\Task.cs" />
+    <Compile Include="ReBot\PassEnum.cs" />
+    <Compile Include="ReBot\StrategyEnum.cs" />
+    <Compile Include="ReBot\PostURLAction.cs" />
+    <Compile Include="ReBot\ReBot.cs" />
+    <Compile Include="ReBot\WebBrowserDownloadControlFlags.cs" />
+    <Compile Include="ReBot\ExWebBrowser.cs" />
+    <Compile Include="ReBot\KeyValuePair.cs" />
+    <Compile Include="ReBot\Settings.cs" />
+    <Compile Include="ReBot\Properties\Resources.cs" />
+    <Compile Include="ReBot\Enums\Localizations.cs" />
+    <Compile Include="ReBot\Enums\EnumDescriptionHelper.cs" />
+    <Compile Include="ReBot\Classes\Order.cs" />
+    <Compile Include="ReBot\Classes\Squad.cs" />
+    <Compile Include="ReBot\Classes\Tasks.cs" />
+    <Compile Include="ReBot\Classes\Substitutes.cs" />
+    <Compile Include="ReBot\Classes\Roles.cs" />
+    <Compile Include="ReBot\Classes\Player.cs" />
+    <Compile Include="ReBot\Classes\StringExtentions.cs" />
+    <Compile Include="ReBot\Classes\LanguageSettings.cs" />
+    <Compile Include="ReBot\Classes\RuntimeLocalizer.cs" />
+    <Compile Include="ReBot\Classes\QueueAction.cs" />
+    <Compile Include="ReBot\Classes\QueueToDo.cs" />
+    <Compile Include="T6LXx0kYgvX8HsA1iE\vqDvvfQKjsb1YDJOsQ.cs" />
+    <Compile Include="JjwJ6VfnOHRdZElDpR\cIjYbKS9IK6bxWCBX7.cs" />
+    <Compile Include="Lhhg1shfS0NAhSBvAD\nRqRRt9e8AGSw2CcaZ.cs" />
+    <Compile Include="zAeW8hgG6Uy09MH8Ig\QdnYXMHuGrcBN6kojY.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="6ZqaBvAp1vTFQ8EFQ1.ld1OpKVoK0TrYNQdXp" />
+    <EmbeddedResource Include="ALxTQGqKNiM32h9xsT.MoXAkBnu0LBUUBxRXe" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

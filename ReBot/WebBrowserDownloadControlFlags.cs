@@ -1,0 +1,37 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: ReBot.WebBrowserDownloadControlFlags
+// Assembly: ReBot, Version=3.9.9.0, Culture=neutral, PublicKeyToken=null
+// MVID: 147AC50F-40E8-4B39-8462-ADDDE720DD9F
+// Assembly location: C:\Users\pcfor\Downloads\ReBot.exe
+
+using System;
+
+#nullable disable
+namespace ReBot
+{
+  [Flags]
+  public enum WebBrowserDownloadControlFlags : uint
+  {
+    DLIMAGES = 16, // 0x00000010
+    VIDEOS = 32, // 0x00000020
+    BGSOUNDS = 64, // 0x00000040
+    NO_SCRIPTS = 128, // 0x00000080
+    NO_JAVA = 256, // 0x00000100
+    NO_RUNACTIVEXCTLS = 512, // 0x00000200
+    NO_DLACTIVEXCTLS = 1024, // 0x00000400
+    DOWNLOADONLY = 2048, // 0x00000800
+    NO_FRAMEDOWNLOAD = 4096, // 0x00001000
+    RESYNCHRONIZE = 8192, // 0x00002000
+    PRAGMA_NO_CACHE = 16384, // 0x00004000
+    NO_BEHAVIORS = 32768, // 0x00008000
+    NO_METACHARSET = 65536, // 0x00010000
+    URL_ENCODING_DISABLE_UTF8 = 131072, // 0x00020000
+    URL_ENCODING_ENABLE_UTF8 = 262144, // 0x00040000
+    NOFRAMES = 524288, // 0x00080000
+    FORCEOFFLINE = 268435456, // 0x10000000
+    NO_CLIENTPULL = 536870912, // 0x20000000
+    SILENT = 1073741824, // 0x40000000
+    OFFLINEIFNOTCONNECTED = 2147483648, // 0x80000000
+    OFFLINE = OFFLINEIFNOTCONNECTED, // 0x80000000
+  }
+}
